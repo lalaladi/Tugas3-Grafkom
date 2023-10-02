@@ -15,7 +15,7 @@ Ubahlah objek berikut : <br>
 Kita ubah kordinatnya menjadi seperti berikut untuk masing-masing segitiga <br>
 -koordinat segitiga 1 dengan warna hijau, biru, dan merah<br>
 ![coord1](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/2f8da691-5fbe-4163-bb42-ad0388206089)
-<br>-koordinat segitiga 2 dengan warna hijau, putih, dan merah<br>
+<br><br>-koordinat segitiga 2 dengan warna hijau, putih, dan merah
 ![coord2](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/9c856185-c9b9-47a3-b4a8-3f08e3e1152e)
 
 <br>maka hasilnya akan menjadi sebagai berikut :
