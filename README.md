@@ -7,16 +7,19 @@
 Berikut adalah dokumentasi yang tiap soal dan penjelasannya :
 ## **Soal Nomor 1**
 Ubahlah objek berikut : 
-![Screenshot (974)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/2740f72f-b3bc-4b95-8514-4a965a293cd8) -> ![Screenshot (975)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/bc9eb558-33b9-47fd-9cdc-470d3d69d0ee)
+![Screenshot (974)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/2740f72f-b3bc-4b95-8514-4a965a293cd8) 
+menjadi 
+![Screenshot (975)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/bc9eb558-33b9-47fd-9cdc-470d3d69d0ee)
 
 **Penyelesaian :** <br>
 Kita ubah kordinatnya menjadi seperti berikut untuk masing-masing segitiga 
 *-koordinat segitiga 1 dengan warna hijau, biru, dan merah
-
+![coord1](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/2f8da691-5fbe-4163-bb42-ad0388206089)
 *-koordinat segitiga 2 dengan warna hijau, putih, dan merah
+![coord2](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/9c856185-c9b9-47a3-b4a8-3f08e3e1152e)
 
 maka hasilnya akan menjadi sebagai berikut :
-![triagle-square](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/1e0eeac7-7f1e-4674-a354-52525b80a198)
+![triagle-square](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/1da2ca14-6371-4fc4-9e0a-715d29eb851e)
 
 ## **Soal Nomor 2**
 Tampilkan tiap sisi objek berikut(3D) : 
@@ -25,19 +28,29 @@ Tampilkan tiap sisi objek berikut(3D) :
 **Penyelesaian :** <br>
 Kita ubah titik -x axis, -y, -z menjadi seperti berikut untuk setiap sisi: 
 *- Sisi kanan, atas, depan
--> ![top,right,front](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/d589e757-d960-4b07-a136-1389012ac209)
+![atas-kanan](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/54e9bf4b-71c0-40a0-954c-c2874039c4bf)
+-> dengan hasil 
+![top,right,front](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/638a969f-3dd8-412b-9602-ffa9bf444e2d)
 
 *-Sisi kanan, atas, belakang
--> ![behind, right,top](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/7b6a2cd1-b5e8-4618-9501-735589854503)
+![atas-belakang](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/ec6b9e7d-d8fc-4f24-bdc2-285500891629)
+-> dengan hasil 
+![behind, right,top](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/15d99562-b023-4640-a62b-5e8c4777bff3)
 
 *-Sisi kiri, depan, bawah
--> ![front,bottom,left](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/5ffcecf4-e5e3-491b-a7c4-9b0377721812)
+![bawah-kiri](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/93ef33de-1108-44b0-abba-937c4407731c)
+-> dengan hasil 
+![front,bottom,left](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/f01c1787-5fb2-4af7-abc1-3aeb37fa93c1)
 
 *-Hanya sisi kiri dan kanan
--> ![left-right](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/46e6a35d-a852-4b2e-be52-8952fdcd3a10)
+![kanan-kiri](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/e598af47-9c2e-4d15-b56f-6e9a07e07384)
+-> dengan hasil
+![left-right](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/46e6a35d-a852-4b2e-be52-8952fdcd3a10)
 
 *-Hanya sisi atas dan bawah
--> ![up-down](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/4b92846a-c023-478a-87e7-e87aac6a3866)
+![atas-bawah](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/e82d6bb8-081a-4c3b-9c88-3c59971009a5)
+-> dengan hasil
+![up-down](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/fa797a95-2bd2-45d8-a8d7-a8508d9404df)
 
 *-Hanya sisi belakang
--> ![behind](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/969d8bde-ea8c-46f9-aa70-cc89a5a58f77)
+![behind](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/000d29fb-9c93-4c07-b9d8-6203088a1f23)
