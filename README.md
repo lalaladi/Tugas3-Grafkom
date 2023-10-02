@@ -5,10 +5,10 @@
 
 # **Dokumentasi Tugas**
 Berikut adalah dokumentasi yang tiap soal dan penjelasannya :
-## **Soal Nomor 1**<br>
-Ubahlah objek berikut : 
+## **Soal Nomor 1**
+Ubahlah objek berikut : <br>
 ![Screenshot (974)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/2740f72f-b3bc-4b95-8514-4a965a293cd8) 
-menjadi 
+menjadi <br>
 ![Screenshot (975)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/bc9eb558-33b9-47fd-9cdc-470d3d69d0ee)
 
 **Penyelesaian :** <br>
@@ -22,35 +22,35 @@ maka hasilnya akan menjadi sebagai berikut :
 ![triagle-square](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/1da2ca14-6371-4fc4-9e0a-715d29eb851e)
 
 ## **Soal Nomor 2**
-Tampilkan tiap sisi objek berikut(3D) : 
+Tampilkan tiap sisi objek berikut(3D) : <br>
 ![Screenshot (976)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/da2a5e50-9d69-4629-bd48-e1a0a0d2013c)
 
 **Penyelesaian :** <br>
 Kita ubah titik -x axis, -y, -z menjadi seperti berikut untuk setiap sisi: 
-- Sisi kanan, atas, depan
+- Sisi kanan, atas, depan<br>
 ![atas-kanan](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/54e9bf4b-71c0-40a0-954c-c2874039c4bf)
--> dengan hasil 
+-> dengan hasil <br>
 ![top,right,front](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/638a969f-3dd8-412b-9602-ffa9bf444e2d)
 
--Sisi kanan, atas, belakang
+-Sisi kanan, atas, belakang<br>
 ![atas-belakang](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/ec6b9e7d-d8fc-4f24-bdc2-285500891629)
--> dengan hasil 
+-> dengan hasil <br>
 ![behind, right,top](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/15d99562-b023-4640-a62b-5e8c4777bff3)
 
--Sisi kiri, depan, bawah
+-Sisi kiri, depan, bawah<br>
 ![bawah-kiri](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/93ef33de-1108-44b0-abba-937c4407731c)
--> dengan hasil 
+-> dengan hasil <br>
 ![front,bottom,left](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/f01c1787-5fb2-4af7-abc1-3aeb37fa93c1)
 
--Hanya sisi kiri dan kanan
+-Hanya sisi kiri dan kanan<br>
 ![kanan-kiri](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/e598af47-9c2e-4d15-b56f-6e9a07e07384)
--> dengan hasil
+-> dengan hasil<br>
 ![left-right](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/20abd46a-7fd6-488a-8bd7-3b9a22eb26b6)
 
--Hanya sisi atas dan bawah
+-Hanya sisi atas dan bawah<br>
 ![atas-bawah](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/e82d6bb8-081a-4c3b-9c88-3c59971009a5)
--> dengan hasil
+-> dengan hasil<br>
 ![up-down](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/fa797a95-2bd2-45d8-a8d7-a8508d9404df)
 
--Hanya sisi belakang
+-Hanya sisi belakang<br>
 ![behind](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/000d29fb-9c93-4c07-b9d8-6203088a1f23)
