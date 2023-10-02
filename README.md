@@ -42,7 +42,7 @@ Kita ubah titik -x axis, -y, -z menjadi seperti berikut untuk setiap sisi: <br>
 <br>-> dengan hasil <br>
 ![front,bottom,left](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/f01c1787-5fb2-4af7-abc1-3aeb37fa93c1)
 
-**-Hanya sisi kiri dan kanan**<br>
+**-Hanya sisi kiri dan kanan**
 ![kanan-kiri](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/e598af47-9c2e-4d15-b56f-6e9a07e07384)
 <br>-> dengan hasil<br>
 ![left-right](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/20abd46a-7fd6-488a-8bd7-3b9a22eb26b6)
