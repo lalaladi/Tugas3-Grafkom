@@ -51,6 +51,6 @@ Kita ubah titik -x axis, -y, -z menjadi seperti berikut untuk setiap sisi: <br>
 ![atas-bawah](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/e82d6bb8-081a-4c3b-9c88-3c59971009a5)
 <br>-> dengan hasil<br>
 ![up-down](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/fa797a95-2bd2-45d8-a8d7-a8508d9404df)
-
-**-Hanya sisi belakang** <br>
+<br>
+**-Hanya sisi belakang** 
 ![behind](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/000d29fb-9c93-4c07-b9d8-6203088a1f23)
