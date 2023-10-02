@@ -5,28 +5,28 @@
 
 # **Dokumentasi Tugas**
 Berikut adalah dokumentasi yang tiap soal dan penjelasannya :
-## **Soal Nomor 1**
+## **Soal Nomor 1**<br>
 Ubahlah objek berikut : <br>
 ![Screenshot (974)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/2740f72f-b3bc-4b95-8514-4a965a293cd8) 
 menjadi <br>
 ![Screenshot (975)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/bc9eb558-33b9-47fd-9cdc-470d3d69d0ee)
 
 **Penyelesaian :** <br>
-Kita ubah kordinatnya menjadi seperti berikut untuk masing-masing segitiga 
--koordinat segitiga 1 dengan warna hijau, biru, dan merah
+Kita ubah kordinatnya menjadi seperti berikut untuk masing-masing segitiga <br>
+-koordinat segitiga 1 dengan warna hijau, biru, dan merah<br>
 ![coord1](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/2f8da691-5fbe-4163-bb42-ad0388206089)
--koordinat segitiga 2 dengan warna hijau, putih, dan merah
+-koordinat segitiga 2 dengan warna hijau, putih, dan merah<br>
 ![coord2](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/9c856185-c9b9-47a3-b4a8-3f08e3e1152e)
 
 maka hasilnya akan menjadi sebagai berikut :
 ![triagle-square](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/1da2ca14-6371-4fc4-9e0a-715d29eb851e)
 
-## **Soal Nomor 2**
+## **Soal Nomor 2**<br>
 Tampilkan tiap sisi objek berikut(3D) : <br>
 ![Screenshot (976)](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/da2a5e50-9d69-4629-bd48-e1a0a0d2013c)
 
 **Penyelesaian :** <br>
-Kita ubah titik -x axis, -y, -z menjadi seperti berikut untuk setiap sisi: 
+Kita ubah titik -x axis, -y, -z menjadi seperti berikut untuk setiap sisi: <br>
 - Sisi kanan, atas, depan<br>
 ![atas-kanan](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/54e9bf4b-71c0-40a0-954c-c2874039c4bf)
 -> dengan hasil <br>
