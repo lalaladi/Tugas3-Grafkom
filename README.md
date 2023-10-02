@@ -27,17 +27,17 @@ Tampilkan tiap sisi objek berikut(3D) : <br>
 
 **Penyelesaian :** <br>
 Kita ubah titik -x axis, -y, -z menjadi seperti berikut untuk setiap sisi: <br>
-**- Sisi kanan, atas, depan**<br>
+**- Sisi kanan, atas, depan**
 ![atas-kanan](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/54e9bf4b-71c0-40a0-954c-c2874039c4bf)
 <br>-> dengan hasil <br>
 ![top,right,front](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/638a969f-3dd8-412b-9602-ffa9bf444e2d)
 
-**-Sisi kanan, atas, belakang**<br>
+**-Sisi kanan, atas, belakang**
 ![atas-belakang](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/ec6b9e7d-d8fc-4f24-bdc2-285500891629)
 <br>-> dengan hasil <br>
 ![behind, right,top](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/15d99562-b023-4640-a62b-5e8c4777bff3)
 
-**-Sisi kiri, depan, bawah**<br>
+**-Sisi kiri, depan, bawah**
 ![bawah-kiri](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/93ef33de-1108-44b0-abba-937c4407731c)
 <br>-> dengan hasil <br>
 ![front,bottom,left](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/f01c1787-5fb2-4af7-abc1-3aeb37fa93c1)
@@ -47,10 +47,10 @@ Kita ubah titik -x axis, -y, -z menjadi seperti berikut untuk setiap sisi: <br>
 <br>-> dengan hasil<br>
 ![left-right](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/20abd46a-7fd6-488a-8bd7-3b9a22eb26b6)
 
-**-Hanya sisi atas dan bawah**<br>
+**-Hanya sisi atas dan bawah**
 ![atas-bawah](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/e82d6bb8-081a-4c3b-9c88-3c59971009a5)
 <br>-> dengan hasil<br>
 ![up-down](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/fa797a95-2bd2-45d8-a8d7-a8508d9404df)
 
-**-Hanya sisi belakang**<br>
+**-Hanya sisi belakang**
 ![behind](https://github.com/lalaladi/Tugas3-Grafkom/assets/90541607/000d29fb-9c93-4c07-b9d8-6203088a1f23)
